@@ -39,4 +39,4 @@ Fork the repo, make changes, and submit a pull request. Report bugs or suggest f
 Developed by Richard/NotMyFirstNull with significant contributions from Grok (xAI) and ChatGPT.
 
 ## Usage Notes
-- If you encounter errors (e.g., unassigned textures)- reopening the tool window resets preferences if needed.
+If you encounter errors (e.g., unassigned textures) - reopening the tool window resets preferences if needed.
