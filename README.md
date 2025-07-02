@@ -1,4 +1,4 @@
-# ChannelPackerTool
+# Unity URP Channel Packer Tool
 A Unity Editor tool for packing grayscale textures into RGBA channels or unpacking RGBA textures into grayscale images.
 
 ## Features
